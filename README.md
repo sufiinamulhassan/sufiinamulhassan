@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Sufi Inam Ul Hassan</h1>
 <h3 align="center">AI/ML Engineer | Data Scientist | Python | SQL | C++ | DSA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inam05&label=Profile%20views&color=0e75b6&style=flat" alt="inam05" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiinamulhassan&label=Profile%20views&color=0e75b6&style=flat" alt="sufiinamulhassan" /> </p>
 
 - 🌱 I’m currently learning **NLP | CV | Gen AI | LLMs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Inam05](https://github.com/Inam05)
+- 👨‍💻 All of my projects are available at [https://github.com/sufiinamulhassan](https://github.com/sufiinamulhassan)
 
 - 💬 Ask me about **Data Science | ML Algorithms | Data Structures**
 
@@ -18,7 +18,7 @@
 <a href="https://kaggle.com/sufiinamulhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sufiinamulhassan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100055623116450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sufi inam ul hassan" height="30" width="40" /></a>
 <a href="https://instagram.com/sufi_inam_ul_hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sufi_inam_ul_hassan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/inam05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="inam05" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills & Tools:</h3>
@@ -33,5 +33,5 @@
   </div>
   
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inam05&show_icons=true&locale=en&layout=compact" alt="inam05" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inam05&" alt="inam05" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sufiinamulhassan&show_icons=true&locale=en&layout=compact" alt="sufiinamulhassan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sufiinamulhassan&" alt="inam05" /></p>

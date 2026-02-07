@@ -32,5 +32,5 @@
     </ul>
   </div>
   
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sufiinamulhassan&" alt="sufiinamulhassan" /></p>
+<p><img align="left" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sufiinamulhassan&count_private=true&" alt="sufiinamulhassan" /></p>
 <p><img align="right" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sufiinamulhassan&layout=compact&" alt="sufiinamulhassan" /></p>

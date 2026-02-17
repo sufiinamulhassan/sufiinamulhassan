@@ -33,5 +33,7 @@
   </div>
   
 <p><img align="left" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sufiinamulhassan&count_private=true" alt="sufiinamulhassan" /></p>
-<p><img align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=sufiinamulhassan&count_private=true&show_icons=true&rank_icon=github&border_radius=10%22%20alt=%22readme%20stats" alt="sufiinamulhassan" /></p>
-<p><img align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sufiinamulhassan&count_private=true&hide=HTML&langs_count=10&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5" alt="sufiinamulhassan" /></p>
+<p><img align="right" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sufiinamulhassan&count_private=true&hide=HTML&langs_count=10&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5" alt="sufiinamulhassan" /></p>
+
+<p><img align="left" src="https://github-readme-stats-salesp07.vercel.app/api?username=sufiinamulhassan&count_private=true&show_icons=true&rank_icon=github&border_radius=10%22%20alt=%22readme%20stats" alt="sufiinamulhassan" /></p>
+

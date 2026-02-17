@@ -32,22 +32,27 @@
     </ul>
   </div>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sufiinamulhassan&count_private=true"
+        alt="streak stats" />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sufiinamulhassan&count_private=true&hide=HTML&langs_count=10&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5"
+        alt="top languages" />
+    </td>
+  </tr>
+</table>
 
-  <img 
-    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sufiinamulhassan&count_private=true"
-    alt="streak stats" />
+<br/>
 
-  <img 
-    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sufiinamulhassan&count_private=true&hide=HTML&langs_count=10&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5"
-    alt="top languages" />
-
-</div>
-
-
-<div align="left">
+<p align="left">
   <img 
     src="https://github-readme-stats-salesp07.vercel.app/api?username=sufiinamulhassan&count_private=true&show_icons=true&rank_icon=github&border_radius=10"
     alt="readme stats" />
-</div>
+</p>
+
 

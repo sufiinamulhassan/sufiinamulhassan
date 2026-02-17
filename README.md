@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td>
+    <td style="padding-right: 20px;">
       <img 
         src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sufiinamulhassan&count_private=true"
         alt="streak stats" />
@@ -47,12 +47,5 @@
   </tr>
 </table>
 
-<br/>
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=sufiinamulhassan&count_private=true&show_icons=true&rank_icon=github&border_radius=10"
-    alt="readme stats" />
-</p>
 
 

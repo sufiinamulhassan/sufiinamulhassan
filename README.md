@@ -23,13 +23,28 @@
 
 <h3 align="left">Skills & Tools:</h3>
     <ul>
-      <li><strong>🖥️ Languages & Technologies:</strong> Python, C++</li>
-      <li><strong>⚙️ Frameworks:</strong> TensorFlow, PyTorch, Keras, Flask, Streamlit, Selenium</li>
-      <li><strong>📚 Libraries:</strong> NumPy, Scikit‑Learn, Matplotlib, SciPy, Pandas, Plotly, LightGBM, XGBoost, Tableau, Seaborn, etc.</li>
-      <li><strong>💾 Databases:</strong> MySQL, MongoDB, SQLite</li>
-      <li><strong>🔧 Version Control:</strong> Git</li>
-      <li><strong>🛠️ Dev Environments & Tools:</strong> VS Code, PyCharm, Google Colab, Jupyter Notebook</li>
-    </ul>
+
+  <li><strong>💻 Programming Languages:</strong> Python, C++, JavaScript</li>
+
+  <li><strong>🤖 Machine Learning:</strong> Supervised & Unsupervised Learning, Classification, Clustering, Feature Engineering, Model Evaluation</li>
+
+  <li><strong>🧠 Deep Learning:</strong> TensorFlow, Keras, YOLO</li>
+
+  <li><strong>💬 NLP, LLM & Generative AI:</strong> Large Language Models, Generative AI Applications, Prompt Engineering, Semantic Similarity Modeling, Embeddings, Vector Databases, Retrieval-Augmented Generation, Ollama API, Cohere API, OpenAI API</li>
+
+  <li><strong>⚙️ Frameworks:</strong> FastAPI, Flask, Streamlit, Pydantic</li>
+
+  <li><strong>📊 Data Stack:</strong> NumPy, Pandas, SciPy, Scikit-Learn, LightGBM, XGBoost, Matplotlib, Seaborn, Plotly, Tableau</li>
+
+  <li><strong>💾 Databases:</strong> MySQL, MongoDB, SQLite, Microsoft SQL Server, ChromaDB, Vector Databases</li>
+
+  <li><strong>🚀 Deployment & DevOps:</strong> Git, GitHub CI/CD, Vercel, Serverless Deployment</li>
+
+  <li><strong>🛠️ Development Environments & Tools:</strong> Antigravity, VS Code, PyCharm, Google Colab, Jupyter Notebook, Roboflow</li>
+
+  <li><strong>📐 Mathematics & Analysis:</strong> Statistics, Calculus, Linear Algebra, Probability</li>
+
+</ul>
   </div>
 
 <table>

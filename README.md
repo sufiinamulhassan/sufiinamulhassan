@@ -66,14 +66,16 @@
       <img 
         src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sufiinamulhassan&count_private=true"
         alt="streak stats" />
-    </td>
-    <td>
       <img 
         src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sufiinamulhassan&count_private=true&hide=HTML&langs_count=10&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5"
         alt="top languages" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=sufiinamulhassan&theme=react-dark&hide_border=true&area=true&radius=15&custom_title=Sufi%20Inam%20Ul%20Hassan's%20GitHub%20Activity" />
+  </tr>
+    </td>
 </table>
-
 
 

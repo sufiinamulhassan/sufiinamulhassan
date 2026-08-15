@@ -71,11 +71,6 @@
         alt="top languages" />
     </td>
   </tr>
-  <tr>
-    <td>
-      <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=sufiinamulhassan&theme=react-dark&hide_border=true&area=true&radius=15&custom_title=Sufi%20Inam%20Ul%20Hassan's%20GitHub%20Activity" />
-  </tr>
-    </td>
 </table>
 
 

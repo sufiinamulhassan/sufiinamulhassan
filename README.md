@@ -17,7 +17,7 @@
   <a href="https://twitter.com/sufi_inam001">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" style="margin-right:8px;"/>
   </a>
-  <a href="https://www.linkedin.com/in/sufi-inam-ul-hassan/">
+  <a href="https://www.linkedin.com/in/sufiinamulhassan/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="margin-right:8px;"/>
   </a>
   <a href="https://kaggle.com/sufiinamulhassan">
@@ -26,7 +26,7 @@
   <a href="https://www.facebook.com/sufiinamulhassan">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" style="margin-right:8px;"/>
   </a>
-  <a href="https://instagram.com/sufi_inam_ul_hassan">
+  <a href="https://instagram.com/sufiinamulhassan">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" style="margin-right:8px;"/>
   </a>
   <a href="https://www.leetcode.com/u/sufiinamulhassan">

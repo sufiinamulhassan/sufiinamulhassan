@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="margin-right:8px;"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~016fee158fedc93410">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" height="30" style="margin-right:8px;"/>
+    <img src="https://cdn.simpleicons.org/upwork/14A800" alt="Upwork" height="30" style="margin-right:8px;"/>
   </a>
   <a href="https://kaggle.com/sufiinamulhassan">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" style="margin-right:8px;"/>
